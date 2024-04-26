@@ -1,7 +1,7 @@
 # Mental-Fitness-Tracker
 
 * Purpose
-The Mental Fitness Tracker is an AI-powered tool designed to monitor and enhance mental well-being through data analysis and personalized recommendations.
+   * The Mental Fitness Tracker is an AI-powered tool designed to monitor and enhance mental well-being through data analysis and personalized recommendations.
 
 * Key Features
 Data Collection: User input, wearable device data, and external sources.
